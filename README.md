@@ -49,8 +49,6 @@ Agent: "Successfully market order BTC with 1000 pay and 10 leverage, Transaction
 2. Install dependencies:
 
 ```bash
-cd packages/plugin-merkle
-
 pnpm install
 ```
 
